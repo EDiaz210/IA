@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&family=Roboto:wght@400;700;900&display=swap');
+
+/* Importar las directivas de Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Puedes añadir tus estilos personalizados aquí */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
